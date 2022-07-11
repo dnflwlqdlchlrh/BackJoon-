@@ -13,14 +13,11 @@ public class B_10156 {
 		int N = Integer.parseInt(st.nextToken());
 		long M = Integer.parseInt(st.nextToken());
 		
-		int sum = 0;
-		
 		if(K * N >= M) {
-			
+			System.out.println((K * N) - M);
+		} else {
+			System.out.println(0);
 		}
 		
-		
-
 	}
-
 }
