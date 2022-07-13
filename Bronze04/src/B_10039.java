@@ -8,7 +8,6 @@ public class B_10039 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		int[] arr1 = new int[5];
-		
 		int sum = 0;
 		for(int i = 0; i < arr1.length; i++) {
 			arr1[i] = Integer.parseInt(br.readLine());
