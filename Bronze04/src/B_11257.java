@@ -15,7 +15,6 @@ public class B_11257 {
 		int M = 25 - (int)(25 * 0.7);
 		int T = 40 - (int)(40 * 0.7);
 
-
 		for(int i = 0; i < n; i++) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 

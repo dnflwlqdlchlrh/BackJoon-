@@ -25,7 +25,6 @@ public class B_10808 {
             sb.append(arr1[i]);
             sb.append(" ");
         }
-
         System.out.println(sb);
 	}
 }

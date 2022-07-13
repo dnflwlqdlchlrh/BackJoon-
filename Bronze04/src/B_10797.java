@@ -18,7 +18,6 @@ public class B_10797 {
 					tot++;
 				}
 			}
-		
 		System.out.println(tot);
 		
 		
